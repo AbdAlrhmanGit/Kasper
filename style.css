@@ -631,7 +631,8 @@ p.contact{
     flex-wrap: wrap;
 }
 .subscribe{
-    width: 400px;
+    width:100%;
+    max-width: 400px;
     display: flex;
     height: 50px;
     position: relative;
